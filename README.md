@@ -1,3 +1,6 @@
+* I am trying to complete this projects to ensure login protected
+* i ensure to make private routes and route authentication so that clients dont go special route without login.
+* just demo projects only basic coding done
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
